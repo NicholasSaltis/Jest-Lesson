@@ -1,0 +1,25 @@
+{
+  "name": "jest_lesson",
+  "version": "1.0.0",
+  "description": "Jest Lesson",
+  "main": "index.js",
+  "scripts": {
+    "start": "node source/index.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasSaltis/Jest-Lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasSaltis/Jest-Lesson/issues"
+  },
+  "homepage": "https://github.com/NicholasSaltis/Jest-Lesson#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "jest": "^27.1.0"
+  }
+}
